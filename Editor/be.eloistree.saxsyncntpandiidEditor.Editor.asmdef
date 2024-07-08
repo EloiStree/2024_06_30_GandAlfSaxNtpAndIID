@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.saxsyncntpandiidEditor",          
+    "references": ["be.eloistree.saxsyncntpandiid"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

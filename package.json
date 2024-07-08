@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.saxsyncntpandiid",                              
+  "displayName": "Sax Sync NTP and IID",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allows to test on sync NTP and IID to create remote action.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_06_30_GandAlfSaxNtpAndIID.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
